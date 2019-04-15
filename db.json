@@ -3,17 +3,17 @@
     {
       "id": 1,
       "approvals": [{
-        'status': 'approved',
-        'priority': 1
+        "status": "approved",
+        "priority": 1
       }, {
-        'status': 'approved',
-        'priority': 2
+        "status": 'approved",
+        "priority": 2
       }, {
-        'status': 'waiting',
-        'priority': 3
+        "status": "waiting",
+        "priority": 3
       }, {
-        'status': 'approved',
-        'priority': 3
+        "status": "approved",
+        "priority": 3
       }]
     },
   ],
